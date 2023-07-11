@@ -42,14 +42,14 @@
    <img src="https://img.shields.io/badge/matplotlib-yellow
 " title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
 
-Crawling:
- <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" 
-<img src="" title="matplotlib" alt="matplotlib" width="40" 
- <img src="" title="matplotlib" alt="matplotlib" width="40" 
-<img src="" title="matplotlib" alt="matplotlib" width="40" 
+### Crawling:
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
  <img src="" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
-Data 
-Statistic + ML:
+<img src="" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+ <img src="" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+ 
+### Statistic + ML:
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
