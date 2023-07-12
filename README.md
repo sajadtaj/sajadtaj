@@ -1,6 +1,6 @@
 ###  
 <div align="center">
-<h3> I am a Quant Analyst and Developer</h3>
+<h3> I am a Quant Analyst </h3>
 </div> 
 
 
