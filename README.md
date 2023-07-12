@@ -32,6 +32,10 @@
 - :telescope: I’m working as a Quant Analyst in <a href="default.asp"><img src="https://img.shields.io/badge/Agah%20Group-Blue" alt="Agah Group" style="width:80px;height:20px;"></a>
 - :seedling: Exploring Technical Content Writing.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadtaj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Skills & Programing:
 #### General:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
