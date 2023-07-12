@@ -1,10 +1,4 @@
-### 
-<div id="header" align="center">
- <a> <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="30"> I am a Quant Analyst and Developer </a>
-</div>
-
-
-
+###  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="30"> I am a Quant Analyst and Developer 
 
 
 <div id="header" align="center">
@@ -25,12 +19,13 @@
     <img src="https://img.shields.io/badge/kaggle-red?style=for-the-badge&logo=kaggle&logoColor=#20BEFF" alt="Twitter Badge"/>
   </a>
 </div>
-
 <div align="center">
 <img  src="https://komarev.com/ghpvc/?username=sajadtaj&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+### My Status:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sajadtaj&theme=transparent&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+### My Job:
 - :telescope: I’m working as a Quant Analyst in <a href="default.asp"><img src="https://img.shields.io/badge/Agah%20Group-Blue" alt="Agah Group" style="width:80px;height:20px;"></a>
 - :seedling: Exploring Technical Content Writing.
 
@@ -69,4 +64,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg"  title="MiniTab" alt="MiniTab" width="40" height="40"/>&nbsp;
     <img src="https://img.shields.io/badge/-white?logo=scikitlearn&logoColor=#F7931E&style=for-the-badge"  title="MiniTab" alt="MiniTab" width="100" height="60"/>&nbsp;
         <img src="https://img.shields.io/badge/JMP-%20teal?logo=simpleanalytics&logoColor=#F7931E&style=for-the-badge"  title="MiniTab" alt="MiniTab" width="100" height="40"/>&nbsp;
-
